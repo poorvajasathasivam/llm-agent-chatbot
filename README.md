@@ -20,7 +20,7 @@ This project is an AI-powered  assistant built using **LangChain**, **FastAPI**,
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/langchain-ai-trading-assistant.git
+git clone https://github.com/poorvajasathasivam/llm-agent-chatbot.git
 cd langchain-ai-trading-assistant
 ```
 ###  Create a virtual environment and activate it (optional):
